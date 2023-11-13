@@ -1,0 +1,13 @@
+.producto__boton{
+    background: orange;
+    border: none;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 50px;
+}
+.producto__boton:hover{
+    cursor: pointer;
+    background: rgb(174, 136, 65);
+    
+}
