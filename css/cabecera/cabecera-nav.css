@@ -1,0 +1,10 @@
+.cabecera__nav{
+    background: #ffffff;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    padding: 1rem;
+
+}

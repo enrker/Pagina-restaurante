@@ -1,0 +1,9 @@
+.boton__login{
+
+    background-image: url("/img/logo/user.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    border-radius: 10%;
+    background-color: white;
+    border-color: orange;   
+}
